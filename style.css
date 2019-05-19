@@ -4,5 +4,13 @@
 }
 
 .btn {
-  margin: 300px;
+  margin: 250px;
+}
+
+p {
+  margin-bottom: 400px;
+}
+
+.container {
+  min-height: 100vh;
 }
